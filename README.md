@@ -125,7 +125,7 @@ Build and run with **⌘R**.
 
 ## Background
 
-This project was built to explore the intersection of agentic coding, MCP protocol implementation, and Apple's developer ecosystem — the same space that Apple's Developer Intelligence team is actively working in.
+This project was built to explore the intersection of agentic coding, MCP protocol implementation, and Apple's developer ecosystem.
 
 The goal was to go beyond using AI tools to actually implementing the protocol layer that makes tool-augmented AI possible, and to do it natively on Apple's platforms.
 
